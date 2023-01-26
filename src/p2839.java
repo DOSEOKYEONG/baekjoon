@@ -2,6 +2,8 @@ import java.io.*;
 import java.util.Arrays;
 
 public class p2839{
+    // https://www.acmicpc.net/problem/2839
+    // 설탕 배달
     public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int num = Integer.parseInt(br.readLine());
